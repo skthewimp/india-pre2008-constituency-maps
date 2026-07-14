@@ -74,10 +74,15 @@ Prompt: "rename the repo, and find the 2023 Assam / 2022 J&K and add them as wel
   - J&K 2022 Lok Sabha, 5 seats; Ladakh Lok Sabha, 1 seat (`U09`); dropped `999` PoK
     placeholders in both.
   - Assam 2023 Lok Sabha, 14 seats.
-- **Not found anywhere:** Assam's 2023 assembly (126 redrawn ACs). datameet, the India
-  Geodata portal, and GitHub code search all still carry the pre-2023 (2008) Assam
-  assembly. Only the ECI's PDF order exists. Documented as an open gap; would need
-  digitising from the PDF.
+- **Assam 2023 assembly - roster recovered, geometry still unavailable.** No open vector
+  polygons exist (datameet, India Geodata, GitHub code search all still carry the pre-2023
+  Assam assembly; the AssamPolls 2026 map is schematic and not extractable). The ECI's
+  47 MB final delimitation order has only village-level composition text and raster map
+  plates. From that order's "PAPER-7" table I extracted the authoritative roster - 126 ACs
+  with number, name, reservation (19 ST + 9 SC), parent Lok Sabha, and district - via
+  `scripts/extract_assam2023_roster.py`, saved as `redelimited/assam2023_assembly_list.csv`.
+  Polygons would need hand-tracing the raster plates and are left as the one open gap.
+  ECI order: https://www.eci.gov.in/Documents/Delimitation/DELIMITATIONASSAM_UPDATED.pdf
 
 ## Known limitations (also in README)
 

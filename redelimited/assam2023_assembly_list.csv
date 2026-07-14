@@ -1,0 +1,127 @@
+ac_no,ac_name,ac_type,pc_no,pc_name,pc_type,district
+1,Gossaigaon,,1,Kokrajhar,ST,Kokrajhar
+2,Dotma,ST,1,Kokrajhar,ST,Kokrajhar
+3,Kokrajhar,ST,1,Kokrajhar,ST,Kokrajhar
+4,Baokhungri,,1,Kokrajhar,ST,Kokrajhar
+5,Parbatjhora,,1,Kokrajhar,ST,Kokrajhar
+6,Golakganj,,2,Dhubri,,Dhubri
+7,Gauripur,,2,Dhubri,,Dhubri
+8,Dhubri,,2,Dhubri,,Dhubri
+9,Birsing Jarua,,2,Dhubri,,Dhubri
+10,Bilasipara,,2,Dhubri,,Dhubri
+11,Mankachar,,2,Dhubri,,South Salmara
+12,Jaleshwar,,2,Dhubri,,Goalpara
+13,Goalpara West,ST,5,Guwahati,,Goalpara
+14,Goalpara East,,2,Dhubri,,Goalpara
+15,Dudhnai,ST,5,Guwahati,,Goalpara
+16,Abhayapuri,,3,Barpeta,,Bongaigaon
+17,Srijangram,,2,Dhubri,,Bongaigaon
+18,Bongaigaon,,3,Barpeta,,Bongaigaon
+19,Sidli Chirang,ST,1,Kokrajhar,ST,Chirang
+20,Bijni,,1,Kokrajhar,ST,Chirang
+21,Bhowanipur-Sorbhog,,3,Barpeta,,Barpeta
+22,Mandia,,2,Dhubri,,Barpeta
+23,Chenga,,2,Dhubri,,Barpeta
+24,Barpeta,SC,3,Barpeta,,Barpeta
+25,Pakabetbari,,3,Barpeta,,Barpeta
+26,Bajali,,3,Barpeta,,Barpeta
+27,Chamaria,,5,Guwahati,,Kamrup
+28,Boko-Chaygaon,ST,5,Guwahati,,Kamrup
+29,Palasbari,,5,Guwahati,,Kamrup
+30,Hajo-Sualkuchi,SC,3,Barpeta,,Kamrup
+31,Rangia,,4,Darrang-Udalguri,,Kamrup
+32,Kamalpur,,4,Darrang-Udalguri,,Kamrup
+33,Dispur,,5,Guwahati,,Kamrup (Metro.)
+34,Dimoria,SC,5,Guwahati,,Kamrup (Metro.)
+35,New Guwahati,,5,Guwahati,,Kamrup (Metro.)
+36,Guwahati Central,,5,Guwahati,,Kamrup (Metro.)
+37,Jalukbari,,5,Guwahati,,Kamrup (Metro.)
+38,Barkhetri,,3,Barpeta,,Nalbari
+39,Nalbari,,3,Barpeta,,Nalbari
+40,Tihu,,3,Barpeta,,Nalbari
+41,Manas,,1,Kokrajhar,ST,Baksa
+42,Baksa,ST,1,Kokrajhar,ST,Baksa
+43,Tamulpur,ST,4,Darrang-Udalguri,,Baksa
+44,Goreswar,,4,Darrang-Udalguri,,Baksa
+45,Bhergaon,,4,Darrang-Udalguri,,Udalguri
+46,Udalguri,ST,4,Darrang-Udalguri,,Udalguri
+47,Mazbat,,4,Darrang-Udalguri,,Udalguri
+48,Tangla,,4,Darrang-Udalguri,,Udalguri
+49,Sipajhar,,4,Darrang-Udalguri,,Darrang
+50,Mangaldai,,4,Darrang-Udalguri,,Darrang
+51,Dalgaon,,4,Darrang-Udalguri,,Darrang
+52,Jagiroad,SC,9,Nagaon,,Morigaon
+53,Laharighat,,9,Nagaon,,Morigaon
+54,Morigaon,,9,Nagaon,,Morigaon
+55,Dhing,,9,Nagaon,,Nagaon
+56,Rupahihat,,9,Nagaon,,Nagaon
+57,Kaliabor,,10,Kaziranga,,Nagaon
+58,Samaguri,,9,Nagaon,,Nagaon
+59,Barhampur,,10,Kaziranga,,Nagaon
+60,Nagaon-Batadraba,,9,Nagaon,,Nagaon
+61,Raha,SC,9,Nagaon,,Nagaon
+62,Binnakandi,,10,Kaziranga,,Nagaon
+63,Hojai,,10,Kaziranga,,Nagaon
+64,Lumding,,10,Kaziranga,,Nagaon
+65,Dhekiajuli,,11,Sonitpur,,Sonitpur
+66,Barchalla,,11,Sonitpur,,Sonitpur
+67,Tezpur,,11,Sonitpur,,Sonitpur
+68,Rangapara,,11,Sonitpur,,Sonitpur
+69,Naduar,,11,Sonitpur,,Sonitpur
+70,Biswanath,,11,Sonitpur,,Sonitpur
+71,Behali,SC,11,Sonitpur,,Sonitpur
+72,Gohpur,,11,Sonitpur,,Sonitpur
+73,Bihpuria,,11,Sonitpur,,Lakhimpur
+74,Rongonadi,,12,Lakhimpur,,Lakhimpur
+75,Nowboicha,SC,12,Lakhimpur,,Lakhimpur
+76,Lakhimpur,,12,Lakhimpur,,Lakhimpur
+77,Dhakuakhana,ST,12,Lakhimpur,,Lakhimpur
+78,Dhemaji,ST,12,Lakhimpur,,Dhemaji
+79,Sissibargaon,,12,Lakhimpur,,Dhemaji
+80,Jonai,ST,12,Lakhimpur,,Dhemaji
+81,Sadiya,,12,Lakhimpur,,Tinsukia
+82,Doomdooma,,12,Lakhimpur,,Tinsukia
+83,Margherita,,13,Dibrugarh,,Tinsukia
+84,Digboi,,13,Dibrugarh,,Tinsukia
+85,Makum,,13,Dibrugarh,,Tinsukia
+86,Tinsukia,,13,Dibrugarh,,Tinsukia
+87,Chabua-Lahowal,,13,Dibrugarh,,Dibrugarh
+88,Dibrugrah,,13,Dibrugarh,,Dibrugarh
+89,Khowang,,13,Dibrugarh,,Dibrugarh
+90,Duliajan,,13,Dibrugarh,,Dibrugarh
+91,Tingkhong,,13,Dibrugarh,,Dibrugarh
+92,Naharkatia,,13,Dibrugarh,,Dibrugarh
+93,Sonari,,14,Jorhat,,Charaideo
+94,Mahmora,,14,Jorhat,,Charaideo
+95,Demow,,14,Jorhat,,Sibsagar
+96,Sibsagar,,14,Jorhat,,Sibsagar
+97,Nazira,,14,Jorhat,,Sibsagar
+98,Majuli,ST,14,Jorhat,,Majuli
+99,Teok,,14,Jorhat,,Jorhat
+100,Jorhat,,14,Jorhat,,Jorhat
+101,Mariani,,14,Jorhat,,Jorhat
+102,Titabor,,14,Jorhat,,Jorhat
+103,Golaghat,,10,Kaziranga,,Golaghat
+104,Dergaon,,10,Kaziranga,,Golaghat
+105,Bokakhat,,10,Kaziranga,,Golaghat
+106,Khumtai,,10,Kaziranga,,Golaghat
+107,Sarupathar,,10,Kaziranga,,Golaghat
+108,Bokajan,ST,6,Diphu,ST,Karbi Anglong
+109,Howarghat,ST,6,Diphu,ST,Karbi Anglong
+110,Diphu,ST,6,Diphu,ST,Karbi Anglong
+111,Rongkhang,ST,6,Diphu,ST,West Karbi Anglong
+112,Amri,ST,6,Diphu,ST,West Karbi Anglong
+113,Haflong,ST,6,Diphu,ST,Dima Hasao
+114,Lakhipur,,8,Silchar,SC,Cachar
+115,Udharbond,,8,Silchar,SC,Cachar
+116,Katigorah,,8,Silchar,SC,Cachar
+117,Barkhola,,8,Silchar,SC,Cachar
+118,Silchar,,8,Silchar,SC,Cachar
+119,Sonai,,8,Silchar,SC,Cachar
+120,Dholai,SC,8,Silchar,SC,Cachar
+121,Hailakandi,,7,Karimganj,,Hailkandi
+122,Algapur-Katlicherra,,7,Karimganj,,Hailkandi
+123,Karimganj North,,7,Karimganj,,Karimganj
+124,Karimganj South,,7,Karimganj,,Karimganj
+125,Patharkandi,,7,Karimganj,,Karimganj
+126,Ram Krishana Nagar,SC,7,Karimganj,,Karimganj
