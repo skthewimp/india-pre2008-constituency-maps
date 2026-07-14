@@ -1,0 +1,66 @@
+st_code,st_name,layer,n_features
+S01,Andhra Pradesh,assembly,294
+S02,Arunachal Pradesh,assembly,60
+S03,Assam,assembly,126
+S04,Bihar,assembly,243
+S05,Goa,assembly,40
+S06,Gujarat,assembly,182
+S07,Haryana,assembly,90
+S08,Himachal Pradesh,assembly,68
+S09,Jammu & Kashmir,assembly,76
+S10,Karnataka,assembly,224
+S11,Kerala,assembly,140
+S12,Madhya Pradesh,assembly,230
+S13,Maharashtra,assembly,288
+S14,Manipur,assembly,60
+S15,Meghalaya,assembly,60
+S16,Mizoram,assembly,40
+S17,Nagaland,assembly,60
+S18,Orissa,assembly,147
+S19,Punjab,assembly,117
+S20,Rajasthan,assembly,200
+S21,Sikkim,assembly,32
+S22,Tamil Nadu,assembly,234
+S23,Tripura,assembly,60
+S24,Uttar Pradesh,assembly,403
+S25,West Bengal,assembly,294
+S26,Chhattisgarh,assembly,90
+S27,Jharkhand,assembly,81
+S28,Uttaranchal,assembly,70
+U05,National Capital Territory Of Delhi,assembly,70
+U07,Pondicherry,assembly,30
+S01,Andhra Pradesh,parliamentary,42
+S02,Arunachal Pradesh,parliamentary,2
+S03,Assam,parliamentary,14
+S04,Bihar,parliamentary,40
+S05,Goa,parliamentary,2
+S06,Gujarat,parliamentary,26
+S07,Haryana,parliamentary,10
+S08,Himachal Pradesh,parliamentary,4
+S09,Jammu & Kashmir,parliamentary,6
+S10,Karnataka,parliamentary,28
+S11,Kerala,parliamentary,20
+S12,Madhya Pradesh,parliamentary,29
+S13,Maharashtra,parliamentary,48
+S14,Manipur,parliamentary,2
+S15,Meghalaya,parliamentary,2
+S16,Mizoram,parliamentary,1
+S17,Nagaland,parliamentary,1
+S18,Orissa,parliamentary,21
+S19,Punjab,parliamentary,13
+S20,Rajasthan,parliamentary,25
+S21,Sikkim,parliamentary,1
+S22,Tamil Nadu,parliamentary,39
+S23,Tripura,parliamentary,2
+S24,Uttar Pradesh,parliamentary,80
+S25,West Bengal,parliamentary,42
+S26,Chhattisgarh,parliamentary,11
+S27,Jharkhand,parliamentary,14
+S28,Uttaranchal,parliamentary,5
+U01,Andaman & Nicobar Islands,parliamentary,1
+U02,Chandigarh,parliamentary,1
+U03,Dadra & Nagar Haveli,parliamentary,1
+U04,Daman & Diu,parliamentary,1
+U05,National Capital Territory Of Delhi,parliamentary,7
+U06,Lakshadweep,parliamentary,1
+U07,Pondicherry,parliamentary,1
