@@ -59,6 +59,26 @@ Decisions taken during the build (via clarifying questions):
   `PC_NO`/`PC_NAME` columns in the assembly attributes). Pre-2008 mapping from
   `AC_All_Final`'s `PC_NO_1`/`PC_NAME`; post-2008 from `India_AC`'s `PC_NO`/`PC_NAME`.
 
+## Redelimited layer (2022/2023) - added later
+
+Prompt: "rename the repo, and find the 2023 Assam / 2022 J&K and add them as well."
+
+- Renamed the GitHub repo `india-pre2008-constituency-maps` -> `india-constituency-maps`
+  (old URL auto-redirects) and repointed the local remote.
+- Source: [shijithpk/2024_maps_supplement](https://github.com/shijithpk/2024_maps_supplement),
+  which digitised the 2022 J&K delimitation and 2024 Lok Sabha changes. Downloaded GeoJSONs
+  kept in `redelimited/source/` for provenance.
+- Added, converted to the standard schema (WGS84 shapefiles) by `scripts/add_redelimited.py`:
+  - J&K 2022 assembly, 90 ACs (code `U08` - J&K is a UT now); dropped the `seat_id=9999`
+    PoK placeholder.
+  - J&K 2022 Lok Sabha, 5 seats; Ladakh Lok Sabha, 1 seat (`U09`); dropped `999` PoK
+    placeholders in both.
+  - Assam 2023 Lok Sabha, 14 seats.
+- **Not found anywhere:** Assam's 2023 assembly (126 redrawn ACs). datameet, the India
+  Geodata portal, and GitHub code search all still carry the pre-2023 (2008) Assam
+  assembly. Only the ECI's PDF order exists. Documented as an open gap; would need
+  digitising from the PDF.
+
 ## Known limitations (also in README)
 
 - Post-2008 `AC_TYPE` (GEN/SC/ST) is mostly blank - the 2018 source has no reservation

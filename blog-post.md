@@ -56,12 +56,21 @@ and stitch the good parts together.
 The Assam thing is worth a note because it's a trap. Assam, along with Jammu & Kashmir and
 a few northeastern states, was left out of the 2008 delimitation entirely - so for those
 states the post-2008 boundaries were the same as the pre-2008 ones. And then Assam got
-re-delimited in 2023, and J&K in 2022, and I don't have shapefiles for either. So the
-honest position is that my post-2008 layer holds the boundaries valid for roughly 2009
-through the early 2020s, and the very latest Assam and J&K maps aren't in it. I've said
-exactly that in the README rather than let someone assume the Assam map is current. Getting
-the data is only half the job - knowing precisely what vintage it is, and admitting where
-it's stale, is the other half.
+re-delimited in 2023, and J&K in 2022, and I didn't have shapefiles for either. So the
+post-2008 layer holds the boundaries valid for roughly 2009 through the early 2020s, and I
+said exactly that in the README rather than let someone assume the Assam map is current.
+Getting the data is only half the job - knowing precisely what vintage it is, and admitting
+where it's stale, is the other half.
+
+Then I went and looked for the new ones properly. Shijith Kunhitty had digitised the
+2022 J&K delimitation and the 2024 Lok Sabha changes into a GitHub repo, so I could pull in
+the new J&K assembly (90 seats now, and J&K is a Union Territory these days, not a state),
+the new J&K and Ladakh Lok Sabha seats, and Assam's redrawn 14 Lok Sabha seats. Those went
+into a `redelimited` folder, kept separate from the 2008 set so nobody confuses the two.
+The one thing I still couldn't find anywhere is Assam's 2023 *assembly* map - the 126
+redrawn seats. The Election Commission published it as a PDF and nobody seems to have
+digitised it yet. So that one gap stays open, clearly flagged, until someone traces it off
+the PDF. Which might end up being me.
 
 The repo now has four layers - assembly and parliamentary, pre and post - plus a
 constituency-to-Lok-Sabha lookup table for each era, all in WGS84 with the same columns.
